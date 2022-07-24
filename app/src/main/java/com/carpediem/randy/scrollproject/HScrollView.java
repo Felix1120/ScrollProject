@@ -66,6 +66,7 @@ public class HScrollView extends LinearLayout {
     private void recycleVelocityTracker() {
         if (mVelocityTracker != null) {
             mVelocityTracker.recycle();
+            mVelocityTracker = null;
         }
     }
     @Override

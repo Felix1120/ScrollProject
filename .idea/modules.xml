@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ScrollProject.iml" filepath="$PROJECT_DIR$/ScrollProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScrollProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ScrollProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ScrollProject.app.unitTest.iml" />
     </modules>
   </component>
 </project>
